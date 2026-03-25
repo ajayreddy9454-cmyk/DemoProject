@@ -3,7 +3,7 @@ t = "A"
 ans=s
 k=list(t)
 c=[]
-l=""
+l="  "
 for i in range(len(s)):
       k=list(t)
       l=""
