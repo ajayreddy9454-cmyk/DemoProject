@@ -5,7 +5,7 @@ k=list(t)
 c=[]
 l="  "
 for i in range(len(s)):
-      k=list(t)
+      k=list(s)
       l=""
       for j in range(i,len(s)):
             l+=s[j]
